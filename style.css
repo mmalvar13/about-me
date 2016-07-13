@@ -1,7 +1,7 @@
-p{font-family:verdana; color:lightseagreen}
+p{font-family:verdana,serif; color:lightseagreen}
 table{border:2px solid lightgreen}
-thead th{font-family:verdana;color:yellow}
-tbody tr th{color:indianred; font-size:40px; font-family:verdana}
+thead th{font-family:verdana,serif;color:yellow}
+tbody tr th{color:indianred; font-size:40px; font-family:verdana, serif}
 img{height: 500px; width:auto; border:5px solid lightseagreen }
-h1{text-align:center; color:coral; font-family:verdana; font-size:40px}
-head table{align-table:right}
+h1{text-align:center; color:coral; font-family:verdana, serif; font-size:40px}
+h2{display:inline;}
