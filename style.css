@@ -1,1 +1,6 @@
-p{font-family:serif,verdana; color:lightseagreen }
+p{font-family:verdana; color:lightseagreen; text-align:right }
+table{border:2px solid lightgreen}
+thead th{color:yellow}
+tbody tr th{color:orangered; font-size:40px; font-family:verdana}
+img{height: 500px; width:auto; border:5px solid lightseagreen }
+h1{text-align:center; color:coral; font-family:verdana; font-size:40px}
