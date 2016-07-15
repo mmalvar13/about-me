@@ -1,35 +1,51 @@
-header h1{font-family: Verdana, serif; font-size:40px; color:coral; display:inline}
+body{background: linear-gradient(antiquewhite,#52527a);}
+header{height:100px;
+	width: 100%;
+	background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(images/blackAndWhite.png);}
+header h1{font-family: Verdana, serif; font-size:40px; color:antiquewhite; display:inline}
 header h2{font-family:verdana, serif; font-size: 20px; color:black; display:inline}
+main{clear:both;}
 body div img{
 	height: 400px;
 	width: auto;
-	border:4px solid teal;
+	border:4px solid black;
 	margin-top:50px;
 	margin-right:10px;
-	margin-bottom:5px;
-	margin-left:20px;
-	padding-top: 5px;
-	padding-right: 5px;
-	padding-bottom: 5px;
-	padding-left: 5px;
+	margin-bottom:50px;
+	margin-left:200px;
 	float:left;
 	position:absolute;
+
 }
 body div p{
-	background-color: aquamarine;
 	width: 400px;
 	margin-top:50px;
-	margin-right:450px;
+	margin-right:250px;
+	margin-bottom:50px;
 	float:right;
 	font-size:17px;
 	font-family:Verdana, serif;
 }
-body{background-color:cornsilk}
+main div{height:100px;
+	width:100%;
+	background:linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)),url(images/blackAndWhite.png);}
 
-main{clear:both;}
-main img{height:300px;
-			width:auto;
+main img{
+	border:4px solid black;
+	margin-top:50px;
+	margin-left:15px;
+	height:250px;
+	width: auto;
+
 }
+main div h3{
+	font-size:40px;
+	color:white;
+	margin-bottom:10px;
+
+	text-align:center;
+
+	}
 
 
 
