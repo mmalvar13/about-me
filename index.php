@@ -7,11 +7,11 @@
 	</head>
 	
 	<body>
-		<header>
+		<header class="divider">
 			<h1>Monica M. Alvarez</h1>
 			<h2>Home</h2>
 			<h2>About Me</h2>
-			<h2>My Favorite Website</h2>
+			<a href="https://google.com" target="_blank"><h2>My Favorite Website</h2></a>
 			<h2>My Portfolio</h2>
 		</header>
 		<!--make it responsive-->
@@ -19,22 +19,33 @@
 		<!--background photo?-->
 		<div>
 			<img src="images/Me.png" alt="Monica Alvarez"/>
-			<p>Purr for no reason eat from dog's food or scream at teh bath play time. This human feeds me, i should be a god russian blue, and kick up litter. Meow all night having their mate disturbing sleeping humans poop in litter box, scratch the walls, so refuse to drink water except out of someone's glass, and walk on car leaving trail of paw prints on hood and windshield, eat prawns daintily with a claw then lick paws clean wash down prawns with a lap of carnation milk then retire to the warmest spot on the couch to claw at the fabric before taking a catnap. Favor packaging over toy lay on arms while you're using the keyboard sit by the fire so give attitude, or favor packaging over toy use lap as chair. Ears back wide eyed give attitude swat at dog, and gnaw the corn cob attack the dog then pretend like nothing happened</p>
+			<p>Hi, I'm Monica! I am 25 years old. I was born in El Paso, TX and my family moved to Los Alamos, NM in 2000. I graduated from Los Alamos High School in 2009 and went to college at UNM. I got my Bachelor's degree in International Relations and Political Science. That was cool and great and all that, but now I'm excited to learn how to become a Web Developer! </p>
 		</div>
 		
-		
-		
 		<main>
-			<div><h3>My Family</h3></div>
+			<div class="divider"><h3 class="headingFont">My Family</h3></div>
 			<img src="images/family.png"/>
 			<img src="images/christmasInPlaza.png"/>
-			<img src="images/MeAndAlex.png"/>
+			<img src="images/AlexFOT.png"/>
 			<img src="images/Daddio.png"/>
+			<ul>
+				<li>My Mom and Siblings</li>
+				<li>My siblings, Grandma, and Uncle</li>
+				<li>My boyfriend, Alex</li>
+				<li>My dad, Rafael</li>
+			</ul>
+			<p>I have two older brothers and one younger sister. All of my family live in Albuquerque and Santa Fe. It's pretty great!</p>
 
-			<a href="https://reddit.com" target="_blank">My Favorite Website</a>
+			<div class="divider"><h3 class="headingFont">My Hobbies & Interests</h3></div>
+			<img src="images/tennis.png"/>
+			<img src="images/flamenco.png"/>
+			<img src="images/lemonCake.png"/>
+			<img src="images/Newo.png"/>
+			<h4>Tennis</h4>
+			<h4>Flamenco</h4>
+			<h4>Lemon Cake</h4>
+			<h4>My cat, Newo</h4>
 
-			<h4>My Hobbies</h4>
-			
 		</main>
 		<
 
